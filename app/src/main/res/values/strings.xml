@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RC Controller</string>
+    <string name="connect">Connect HC-06</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="use_imu">Use Phone IMU for Steering</string>
+</resources>

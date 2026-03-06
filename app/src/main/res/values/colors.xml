@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#FF121218</color>
+    <color name="bg_darker">#FF0A0A0F</color>
+    <color name="text_primary">#FFE8EAF6</color>
+    <color name="text_secondary">#FFB0BEC5</color>
+    <color name="text_hint">#FF607D8B</color>
+    <color name="accent_blue">#FF3D5AFE</color>
+    <color name="accent_green">#FF00E676</color>
+    <color name="accent_red">#FFB71C1C</color>
+    <color name="divider">#FF1E1E2E</color>
+
+    <!-- For Material theme -->
+    <color name="colorPrimary">#FF3D5AFE</color>
+    <color name="colorPrimaryVariant">#FF1A237E</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorSecondary">#FF00E676</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="colorSurface">#FF121218</color>
+    <color name="colorOnSurface">#FFE8EAF6</color>
+    <color name="colorBackground">#FF121218</color>
+    <color name="colorOnBackground">#FFE8EAF6</color>
+    <color name="colorError">#FFCF6679</color>
+    <color name="colorOnError">#FF000000</color>
+</resources>
